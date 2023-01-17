@@ -5,6 +5,7 @@ This is a simple QR generator that uses the [qrcode](https://pypi.org/project/qr
 ### Usage
 
 ```bash
+py -3 -m venv venv
 venv\Scripts\activate
 python main.py
 ```
